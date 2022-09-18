@@ -5,7 +5,7 @@ const Card = (props) =>{
     const onClickFunc = props.onClickFunc;
     
   return (
-    <div className="card" onClick={onClickFunc}>
+    <div className="card" onClick={ ()=>onClickFunc(pokeSpec.id)}>
         <img className="card-img" src={''} alt="card-img" /> 
         <div className="card-name">{pokeSpec.cardName}</div>
     </div>
