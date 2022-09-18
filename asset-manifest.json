@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/memory_card_game/static/css/main.123b2d78.css",
+    "main.js": "/memory_card_game/static/js/main.720368f1.js",
+    "static/media/charizard.svg": "/memory_card_game/static/media/charizard.42b664803a4b3824183275f527b5ad1e.svg",
+    "static/media/mewtwo.svg": "/memory_card_game/static/media/mewtwo.f5b8ece56ed8cc574c929347a5b1ba26.svg",
+    "static/media/bulbasaur.svg": "/memory_card_game/static/media/bulbasaur.778b7c5b89f6de1811d52dee598543d8.svg",
+    "static/media/charmander.svg": "/memory_card_game/static/media/charmander.5a71089c02df170a4e752f325bbbc5db.svg",
+    "static/media/snorlax.svg": "/memory_card_game/static/media/snorlax.d41580f8aff1fd4c3cc61e6769ba6b39.svg",
+    "static/media/eevee.svg": "/memory_card_game/static/media/eevee.d2728f9eb0dbe69ccf2cf8cd1204942f.svg",
+    "static/media/meowth.svg": "/memory_card_game/static/media/meowth.530cc85e1e8a405c4db82efb639ecc41.svg",
+    "static/media/gengar.svg": "/memory_card_game/static/media/gengar.e541bc9f8a37e9271a5169c07eb246a9.svg",
+    "static/media/squirtle.svg": "/memory_card_game/static/media/squirtle.23b125deccc69bc4e7295a13e0b3a4d1.svg",
+    "static/media/pikachu.svg": "/memory_card_game/static/media/pikachu.84ff9339d4d4fbf9e0489ea9456722e7.svg",
+    "static/media/jigglypuff.svg": "/memory_card_game/static/media/jigglypuff.768b246d820e906767a04089476bc39d.svg",
+    "static/media/psyduck.svg": "/memory_card_game/static/media/psyduck.4154a8423cd79c5c0beec1e7365ffc09.svg",
+    "index.html": "/memory_card_game/index.html",
+    "main.123b2d78.css.map": "/memory_card_game/static/css/main.123b2d78.css.map",
+    "main.720368f1.js.map": "/memory_card_game/static/js/main.720368f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.123b2d78.css",
+    "static/js/main.720368f1.js"
+  ]
+}
