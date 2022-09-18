@@ -1,0 +1,24 @@
+.card{
+    border-radius: 20px;
+    background-color: white;
+    width: 120px;
+    height: 150px;
+    text-align: center;
+    box-shadow: 5px 5px 4px #888888;
+}
+
+.card:hover{
+    outline: 3px red solid;
+}
+
+.card:active{
+    background-color: #888888;
+}
+
+.card>img{
+    box-sizing: border-box;
+    padding: 4%;
+    height: 120px;
+    width: 120px;
+}
+

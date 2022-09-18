@@ -1,0 +1,22 @@
+#footer{
+    font-size: 25px;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   gap: 20px;
+   height: 7vh;
+   width: 100vw;
+   color:#e0dddd;
+   background-color: black;
+}
+
+.githubSvg{
+    transition: transform 0.15s ease-in-out 0s;
+}
+
+.githubSvg:hover{
+
+    transform: scale(1.3);
+    
+}

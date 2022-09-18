@@ -1,4 +1,5 @@
-import React, { useState, useEffect } from "react";
+import React  from "react";
+import '../styles/card.css';
 
 const Card = (props) =>{
     const pokeSpec = props.pokeSpec;
@@ -6,7 +7,7 @@ const Card = (props) =>{
     
   return (
     <div className="card" onClick={ ()=>onClickFunc(pokeSpec.id)}>
-        <img className="card-img" src={''} alt="card-img" /> 
+        <img className="card-img" src={pokeSpec.cardImgSrc} alt="card-img" /> 
         <div className="card-name">{pokeSpec.cardName}</div>
     </div>
   );

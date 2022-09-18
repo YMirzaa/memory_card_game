@@ -1,0 +1,38 @@
+.content{
+    background-color: #e2dada;
+
+}
+
+.grids{
+    display: grid;
+    grid-template-columns:repeat(4, 1fr);
+    justify-items:center;
+    gap: 20px; 
+    padding: 1% 25%;
+
+}
+
+.scores{
+    display: flex;
+    gap: 120px;
+    justify-content: center;
+    padding: 25px;
+    text-align: center;
+}
+
+.scores :first-child{
+  background-color: #e97a7a;
+}
+
+.scores :nth-child(2){
+    background-color: #baffb4;
+}
+
+.scores :first-child,
+.scores :nth-child(2){
+    padding: 1% 2%;
+    width: 200px;
+    border-radius: 20px;
+    box-sizing: border-box;
+}
+
