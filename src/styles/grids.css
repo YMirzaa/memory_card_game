@@ -1,0 +1,13 @@
+.grids{
+    display: grid;
+    grid-template-columns:repeat(4, 1fr);
+    justify-items:center;
+    gap: 20px; 
+    padding: 5% 20%;
+}
+
+.card{
+    border: 1px solid black;
+    width: 120px;
+    height: 150px;
+}
